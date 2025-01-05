@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AutoClock</string>
+    <string name="welcome">Welcome back! Glad to see you Again!</string>
+    <string name="userName">User Name</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="PleaseEnterValidCredentials">Please Enter Valid Credentials</string>
+    <string name="LoginSuccessful">Login Successful</string>
 </resources>

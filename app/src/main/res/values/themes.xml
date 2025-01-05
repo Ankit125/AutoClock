@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <style name="Theme.AutoClock" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Theme.AutoClock" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/shrine_pink_100</item>
+        <item name="colorPrimaryVariant">@color/shrine_pink_300</item>
+        <item name="colorOnPrimary">@color/shrine_pink_900</item>
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+    </style>
+
 </resources>
